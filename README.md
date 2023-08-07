@@ -84,9 +84,11 @@ Neuroscience News: Is Your Emotional Wellbeing Related to Your Gut Health? New S
 BWH News: Emotional Wellbeing May be Directly Linked to Women's Gut Health, https://www.brighamandwomens.org/about-bwh/newsroom/press-releases-detail?id=4417
 Boston 25 News: You really do ‘feel’ it in your gut: Study links GI bacteria levels to emotions, https://www.boston25news.com/news/local/you-really-do-feel-it-your-gut-study-links-gi-bacteria-levels-emotions/6IBKNBOZCZBN5HSG7ACH3QCOHY/
 The Harvard Gazette: Expanding our understanding of gut feelings, https://news.harvard.edu/gazette/story/2023/04/expanding-our-understanding-of-the-gut-feeling/
+
 2. Ke S, Weiss ST, Liu Y.Y. (2022). Dissecting the Role of the Human Microbiome in COVID-19 via Metagenome-assembled Genomes.
 Nature portfolio: The role of the human microbiome in COVID-19; https://microbiologycommunity.nature.com/posts/the-role-of-the-human-microbiome-in-covid-19
 Brigham and Women's Hospital-On a mission: Brigham researchers create COVID-19 genome catalog of the human microbiome; https://www.brighamhealthonamission.org/2022/10/17/brigham-researchers-create-covid-19-genome-catalog-of-the-human-microbiome/
+
 3. Ke S, Weiss ST, Liu Y.Y. (2022). Rejuvenating the Human Gut Microbiome (covered by 90+ news) 
 Best of 2022: Trends in Molecular Medicine: https://www.cell.com/trends/molecular-medicine/collections/best-of-2022
 NBC news: The secret to good health later in life? Researchers think it could be banking your poop now;  https://www.nbcnews.com/science/science-news/secret-good-health-later-life-researchers-think-banking-poop-now-rcna36184
