@@ -4,7 +4,8 @@
 I am a biologist by training, with expertise in bioinformatics and microbiology, machine learning, and animal experiments. My long-term research interests involve investigating the human microbiome that contributes to the development of human disease, including C.difficile infection, PTSD, COVID-19, aging, and IBD.
 
 # Education
-Ph.D. Animal genetics, Sep 2015 - Dec 2020
+Ph.D. Animal Genetics, Sep 2015 - Dec 2020
+
 State Key Lab in animal genetics, breeding and reproduction
 
 Bachelor of Veterinary Medicine, Sep. 2011 - Jul. 2015
