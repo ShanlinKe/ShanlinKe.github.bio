@@ -78,7 +78,6 @@ Women’s Health Interdisciplinary Stress Program of Research (WHISPR) award, 06
 
 # Publicity
 1. S. Ke*, Guimond A.J.*, S.S. Tworoger, T. Huang, A.T. Chan, Y.Y. Liu, L.D. Kubzansky (2023). Gut feelings: Associations of emotions and emotion regulation with the gut microbiome in women.
-
 NutritionInsight: Gut  feelings: Emotions, diets and microbiome link investigated in studies, https://www.nutritioninsight.com/news/gut-feelings-emotions-diets-and-microbiome-link-investigated-in-studies.html
 Neuroscience News: Is Your Emotional Wellbeing Related to Your Gut Health? New Study Reveals Possible Link in Women? https://neurosciencenews.com/emotion-gut-microbiome-23129/
 BWH News: Emotional Wellbeing May be Directly Linked to Women's Gut Health, https://www.brighamandwomens.org/about-bwh/newsroom/press-releases-detail?id=4417
@@ -91,7 +90,7 @@ Brigham and Women's Hospital-On a mission: Brigham researchers create COVID-19 g
 
 3. Ke S, Weiss ST, Liu Y.Y. (2022). Rejuvenating the Human Gut Microbiome (covered by 90+ news) 
 Best of 2022: Trends in Molecular Medicine: https://www.cell.com/trends/molecular-medicine/collections/best-of-2022
-NBC news: The secret to good health later in life? Researchers think it could be banking your poop now;  https://www.nbcnews.com/science/science-news/secret-good-health-later-life-researchers-think-banking-poop-now-rcna36184
+NBC News: The secret to good health later in life? Researchers think it could be banking your poop now; https://www.nbcnews.com/science/science-news/secret-good-health-later-life-researchers-think-banking-poop-now-rcna36184
 The Economist: People bank blood. Why not faeces? https://www.economist.com/science-and-technology/2022/06/29/people-bank-blood-why-not-faeces
 WIRED: Could Your Old Poop Cure You of Future Diseases?https://www.wired.com/story/could-old-poop-cure-future-diseases/
 Science Daily: Researchers propose widespread banking of stool samples for fecal transplants later in life; https://www.sciencedaily.com/releases/2022/06/220630114518.htm
