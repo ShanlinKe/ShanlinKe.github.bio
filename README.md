@@ -4,11 +4,11 @@
 I am a biologist by training, with expertise in bioinformatics and microbiology, machine learning, and animal experiments. My long-term research interests involve investigating the human microbiome that contributes to the development of human disease, including C.difficile infection, PTSD, COVID-19, aging, and IBD.
 
 # Education
-Ph.D. Animal Genetics, Sep 2015 - Dec 2020
 
-State Key Lab in animal genetics, breeding and reproduction
+State Key Lab of Animal Genetics, Jiangxi Agricultural University, Jiangxi, CHINA     Ph.D.                  09/2015-12/2020           Microbiology and Bioinformatics                                                                                                         
+Channing Division of Network Medicine, Harvard Medical School, MA, USA                Visiting student       09/2018-02/2021           Microbiology and Bioinformatics
 
-Bachelor of Veterinary Medicine, Sep. 2011 - Jul. 2015
+Jiangxi Agricultural University, Jiangxi, CHINA                                       B.S.                   07/2015-07/2015           Veterinary Medicine
 
 
 # Publications
