@@ -5,7 +5,8 @@ I am a biologist by training, with expertise in bioinformatics and microbiology,
 
 # Education
 
-State Key Lab of Animal Genetics, Jiangxi Agricultural University, Jiangxi, CHINA     Ph.D.                  09/2015-12/2020           Microbiology and Bioinformatics                                                                                                         
+State Key Lab of Animal Genetics, Jiangxi Agricultural University, Jiangxi, CHINA     Ph.D.                  09/2015-12/2020           Microbiology and Bioinformatics                                           
+
 Channing Division of Network Medicine, Harvard Medical School, MA, USA                Visiting student       09/2018-02/2021           Microbiology and Bioinformatics
 
 Jiangxi Agricultural University, Jiangxi, CHINA                                       B.S.                   07/2015-07/2015           Veterinary Medicine
