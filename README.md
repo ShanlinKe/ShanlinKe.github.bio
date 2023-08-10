@@ -38,7 +38,7 @@ Jiangxi Agricultural University, Jiangxi, CHINA,                                
 1. Ke S., Wang X, Ratanatharathorn A, Huang T, Roberts A, Grodstein F, Kubzansky L, Koenen KC, Liu Y. Association of Post-Traumatic Stress Disorder with Dietary Pattern and Gut Microbiome in a Cohort of Women. 2023, Nature Mental Health, under revision.  
 2. Ke S., Liu Y, Koenen KC. Role of the Gut Microbiome in Posttraumatic Stress Disorder. 2023, Brain Behavior and Immunity, under revision.  
 3. Zhang Y, Ke S., Wang X, Liu Y.Y. Association rule mining of the human gut microbiome. 2022, doi: 10.1101/2022.11.27.518104. Bioinformatics Advances, under revision.
-4. Guimond A.J.*, Ke S.*, Tworoger S.S., Huang T., Chan A.T, Kubzansky L.D., and Liu Y.Y. Relationships of eudaimonic psychological well-being with the gut microbiome in older women, Psychosomatic Medicine, under revision(* indicates co-first authors).
+4. Guimond A.J*, Ke S.*, Tworoger S.S., Huang T., Chan A.T, Kubzansky L.D., and Liu Y.Y. Relationships of eudaimonic psychological well-being with the gut microbiome in older women, Psychosomatic Medicine, under revision(* indicates co-first authors).
 
 # Awards
 Women’s Health Interdisciplinary Stress Program of Research (WHISPR) award, 06/2023~05/2024.
