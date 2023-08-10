@@ -45,6 +45,10 @@ Jiangxi Agricultural University, Jiangxi, CHINA,                                
 # Awards
 Women’s Health Interdisciplinary Stress Program of Research (WHISPR) award, 06/2023~05/2024.
 
+# Talk
+Revealing the interaction between Posttraumatic Stress Disorder and the gut microbiome in older women. The 6th Annual WHISPR Symposium, May 2023.
+Dissecting the role of the human microbiome in COVID-19 via metagenome-assembled genomes.  COVID-19 Genomics Research Network meeting, New York Genome Center, Sep 2022.
+Rejuvenating the Human Gut Microbiome. HMSCSSA lighting talk, Boston, Feb 2023.
 
 # Publicity
 S. Ke*, Guimond A.J.*, S.S. Tworoger, T. Huang, A.T. Chan, Y.Y. Liu, L.D. Kubzansky (2023). Gut feelings: Associations of emotions and emotion regulation with the gut microbiome in women.
