@@ -11,7 +11,7 @@ Jiangxi Agricultural University, Jiangxi, CHINA,                                
 
 
 # Publications
-1. Ke S.*, Xiao Y*, Weiss ST, Chen X, Kelly CP, Liu Y.Y. A Computational Method to Dissect Colonization Resistance of the Gut Microbiota against Pathogens. 2023, doi: 10.1101/2022.01.06.475215. Cell Reports Methods, in press (* indicates co-first authors).  
+1. Ke S*, Xiao Y*, Weiss ST, Chen X, Kelly CP, Liu Y.Y. A Computational Method to Dissect Colonization Resistance of the Gut Microbiota against Pathogens. 2023, doi: 10.1101/2022.01.06.475215. Cell Reports Methods, in press (* indicates co-first authors).  
 2. Ke, S.*, Guimond A.J.*, Tworoger, S.S., Huang, T., Chan, A.T., Liu, Y.Y., Kubzansky, L.D. Gut feelings: Associations of emotions and emotion regulation with the gut microbiome in women. Psychological Medicine (2023), doi: 10.1017/S0033291723000612 (* indicates co-first authors).
 3. Wang X., Wang T., Schaub D.P., Chen C., Sun Z., Ke S., Hecker., Maaser-Hecker A., Zeleznik O.A., Zeleznik R., Litonjua A.A., DeMeo D.L., Lasky-Su J., Silverman E.K., Liu Y.Y., Weiss S.T. Benchmarking omics-based prediction of asthma development in children. Respiratory Research (2023), doi: 10.1186/s12931-023-02368-8. PMID: 36842969.
 4. Liu Q., He M., Zeng Z., Huang X., Fang S., Zhao Y., Ke S., Wu J., Zhou Y., Xiong X., Li Z., Fu H., Huang L., Chen C. Extensive identification of serum metabolites related to microbes in different gut locations and evaluating their associations with porcine fatness. Microbial Biotechnology (2023), doi: 10.1111/1751-7915.14245. 
