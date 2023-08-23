@@ -1,5 +1,5 @@
 # Bio
-I am a biologist by training, with expertise in bioinformatics and microbiology, machine learning, and animal experiments. My long-term research interests involve investigating the human microbiome that contributes to the development of human disease, including C.difficile infection, PTSD, COVID-19, aging, and IBD.
+I am a biologist by training, with expertise in bioinformatics, microbiology, machine learning, and animal experiments. My long-term goal is to establish an independent research group to explore the biosynthetic potential within microbial communities and develop novel microbiome-based strategies to manage multi-drug resistant infections (C. difficile infection, COVID-19, and Urinary Tract Infection) and chronic diseases (Posttraumatic Stress Disorder, aging, and Inflammatory Bowel Disease).
 
 # Education
 
