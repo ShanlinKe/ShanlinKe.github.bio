@@ -1,4 +1,3 @@
-![Shanlin_Ke](https://github.com/ShanlinKe/ShanlinKe.github.io/assets/83370369/70403813-798d-4faa-814f-35795642a8a8)
 # Bio
 I am a biologist by training, with expertise in bioinformatics, microbiology, machine learning, and animal experiments. My long-term goal is to establish an independent research group to explore the biosynthetic potential within microbial communities and develop novel microbiome-based strategies to manage multi-drug resistant infections (C. difficile infection, COVID-19, and Urinary Tract Infection) and chronic diseases (Posttraumatic Stress Disorder, aging, and Inflammatory Bowel Disease).
 
