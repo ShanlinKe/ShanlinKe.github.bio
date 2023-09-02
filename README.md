@@ -7,7 +7,7 @@ State Key Lab of Animal Genetics, Jiangxi Agricultural University, Jiangxi, CHIN
 
 Channing Division of Network Medicine, Harvard Medical School, MA, USA,                Visiting student,       09/2018-02/2021,           Microbiology and Bioinformatics
 
-Jiangxi Agricultural University, Jiangxi, CHINA,                                       B.S.,                   07/2015-07/2015,           Veterinary Medicine
+Jiangxi Agricultural University, Jiangxi, CHINA,                                       B.S.,                   09/2011-07/2015,           Veterinary Medicine
 
 
 # Publications
