@@ -1,5 +1,5 @@
 # Bio
-I am a biologist by training, with expertise in bioinformatics, microbiology, machine learning, and animal experiments. My long-term goal is to establish an independent research group to explore the biosynthetic potential within microbial communities and develop novel microbiome-based strategies to manage multi-drug resistant infections (C. difficile infection, COVID-19, and Urinary Tract Infection) and chronic diseases (Posttraumatic Stress Disorder, aging, and Inflammatory Bowel Disease).
+I am a biologist with expertise in bioinformatics, microbiology, machine learning, and animal experiments. My long-term goal is to establish an independent research group to explore the biosynthetic potential within microbial communities and develop novel microbiome-based strategies to manage multi-drug resistant infections (C. difficile infection, COVID-19, and Urinary Tract Infection) and chronic diseases (Posttraumatic Stress Disorder, aging, and Inflammatory Bowel Disease).
 
 # Education
 
@@ -11,7 +11,7 @@ Jiangxi Agricultural University, Jiangxi, CHINA,                                
 
 
 # Publications
-1. Ke S., Liu Y, Koenen KC. Role of the Gut Microbiome in Posttraumatic Stress Disorder. 2023, Brain Behavior and Immunity, perspective paper, doi: 10.1016/j.bbi.2023.09.005.
+1. Ke S., Liu Y, Koenen KC. Role of the Gut Microbiome in Posttraumatic Stress Disorder. 2023, Brain Behavior and Immunity, doi: 10.1016/j.bbi.2023.09.005.
 2. Ke S., Wang X, Ratanatharathorn A, Huang T, Roberts A, Grodstein F, Kubzansky L, Koenen KC, Liu Y. Association of Post-Traumatic Stress Disorder with Dietary Pattern and Gut Microbiome in a Cohort of Women. 2023, Nature Mental Health, in press.
 3. Ke S*, Xiao Y*, Weiss ST, Chen X, Kelly CP, Liu Y.Y. A Computational Method to Dissect Colonization Resistance of the Gut Microbiota against Pathogens. 2023, doi: 10.1016/j.crmeth.2023.100576. Cell Reports Methods (* indicates co-first authors).  
 4. Ke, S*, Guimond A.J*, Tworoger, S.S., Huang, T., Chan, A.T., Liu, Y.Y., Kubzansky, L.D. Gut feelings: Associations of emotions and emotion regulation with the gut microbiome in women. Psychological Medicine (2023), doi: 10.1017/S0033291723000612 (* indicates co-first authors).
