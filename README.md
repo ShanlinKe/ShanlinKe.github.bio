@@ -51,6 +51,21 @@ Dissecting the role of the human microbiome in COVID-19 via metagenome-assembled
 Rejuvenating the Human Gut Microbiome. HMSCSSA lighting talk, Boston, Feb 2023.
 
 # Publicity
+
+S. Ke, X-W. Wang, A. Ratanatharathorn, T. Huang, A. Roberts, F. Grodstein, L. Kubzansky, K. Koenen, Y-Y. Liu. Association of probable post-traumatic stress disorder with dietary pattern and gut microbiome in a cohort of women
+ 
+1. https://www.miragenews.com/ptsd-diet-and-gut-microbiome-link-found-study-1107130/
+
+2. https://www.nbcnews.com/health/health-news/mediterranean-diet-may-reduce-prevent-ptsd-symptoms-new-research-shows-rcna121223
+
+3. https://www.hngn.com/articles/253212/20231022/diet-impact-ptsd-research-suggests-mediterranean-key.htm
+
+4. https://www.usnews.com/news/health-news/articles/2023-10-23/mediterranean-diet-may-ease-ptsd-symptoms
+
+5. https://vegnews.com/vegan-news/plant-based-diet-ptsd-study
+
+6. https://www.the-microbiologist.com/news/researchers-discover-associations-among-ptsd-diet-and-the-gut-microbiome/1781.article
+
 S. Ke*, Guimond A.J.*, S.S. Tworoger, T. Huang, A.T. Chan, Y.Y. Liu, L.D. Kubzansky (2023). Gut feelings: Associations of emotions and emotion regulation with the gut microbiome in women.
 
 1. NutritionInsight: Gut  feelings: Emotions, diets and microbiome link investigated in studies, https://www.nutritioninsight.com/news/gut-feelings-emotions-diets-and-microbiome-link-investigated-in-studies.html
