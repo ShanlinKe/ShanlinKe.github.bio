@@ -14,7 +14,7 @@ Jiangxi Agricultural University, Jiangxi, CHINA,                                
 # Publications
 
 1. Ke S, Gálvez JAV, Sun Z, Cao Y, Pollock NR, Chen X, Kelly CP, Liu Y.Y. Rational Design of Live Biotherapeutic Products for the Prevention of Clostridioides difficile Infection. 2024, Doi: 10.1093/infdis/jiae470, The Journal of Infectious Diseases.
-2. Guimond A.J.*, Ke S.*, Tworoger S.S., Huang T., Chan A.T, Kubzansky L.D., and Liu Y.Y. Fulfilled mind, healthy gut? Relationships of eudaimonic psychological well-being with the gut microbiome in postmenopausal women, Psychosomatic Medicine, 2024, PMID: 38345311, doi: 10.1097/PSY.0000000000001278 (* indicates co-first authors). 
+2. Guimond A.J.*, Ke S.*, Tworoger S.S., Huang T., Chan A.T, Kubzansky L.D., and Liu Y.Y. Fulfilled mind, healthy gut? Relationships of eudaimonic psychological well-being with the gut microbiome in postmenopausal women, Psychosomatic Medicine, 2024, PMID: 38345311, doi: 10.1097/PSY.0000000000001278 (* indicates co-first authors).
 3. Ke S., Liu Y, Koenen KC. Role of the Gut Microbiome in Posttraumatic Stress Disorder. 2023, Brain Behavior and Immunity, doi: 10.1016/j.bbi.2023.09.005.
 4. Ke S., Wang X, Ratanatharathorn A, Huang T, Roberts A, Grodstein F, Kubzansky L, Koenen KC, Liu Y. Association of Post-Traumatic Stress Disorder with Dietary Pattern and Gut Microbiome in a Cohort of Women. 2023, Nature Mental Health, doi: 10.1038/s44220-023-00145-6.
 5. Ke S*, Xiao Y*, Weiss ST, Chen X, Kelly CP, Liu Y.Y. A Computational Method to Dissect Colonization Resistance of the Gut Microbiota against Pathogens. 2023, doi: 10.1016/j.crmeth.2023.100576. Cell Reports Methods (* indicates co-first authors).  
