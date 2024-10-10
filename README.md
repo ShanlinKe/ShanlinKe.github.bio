@@ -1,4 +1,5 @@
 # Bio
+
 I am a biologist with expertise in bioinformatics, microbiology, machine learning, and animal experiments. My long-term goal is to establish an independent research group to explore the biosynthetic potential within microbial communities and develop novel microbiome-based strategies to manage multi-drug resistant infections (C. difficile infection, COVID-19, and Urinary Tract Infection) and chronic diseases (Posttraumatic Stress Disorder, aging, and Inflammatory Bowel Disease).
 
 # Education
@@ -12,6 +13,8 @@ Jiangxi Agricultural University, Jiangxi, CHINA,                                
 
 # Publications
 
+1. Ke S, Gálvez JAV, Sun Z, Cao Y, Pollock NR, Chen X, Kelly CP, Liu Y.Y. Rational Design of Live Biotherapeutic Products for the Prevention of Clostridioides difficile Infection. 2024, Doi: 10.1093/infdis/jiae470, The Journal of Infectious Diseases.
+2. Guimond A.J.*, Ke S.*, Tworoger S.S., Huang T., Chan A.T, Kubzansky L.D., and Liu Y.Y. Fulfilled mind, healthy gut? Relationships of eudaimonic psychological well-being with the gut microbiome in postmenopausal women, Psychosomatic Medicine, 2024, PMID: 38345311, doi: 10.1097/PSY.0000000000001278 (* indicates co-first authors). 
 3. Ke S., Liu Y, Koenen KC. Role of the Gut Microbiome in Posttraumatic Stress Disorder. 2023, Brain Behavior and Immunity, doi: 10.1016/j.bbi.2023.09.005.
 4. Ke S., Wang X, Ratanatharathorn A, Huang T, Roberts A, Grodstein F, Kubzansky L, Koenen KC, Liu Y. Association of Post-Traumatic Stress Disorder with Dietary Pattern and Gut Microbiome in a Cohort of Women. 2023, Nature Mental Health, doi: 10.1038/s44220-023-00145-6.
 5. Ke S*, Xiao Y*, Weiss ST, Chen X, Kelly CP, Liu Y.Y. A Computational Method to Dissect Colonization Resistance of the Gut Microbiota against Pathogens. 2023, doi: 10.1016/j.crmeth.2023.100576. Cell Reports Methods (* indicates co-first authors).  
@@ -38,12 +41,15 @@ Jiangxi Agricultural University, Jiangxi, CHINA,                                
 26. He M., Fang S., Huang X., Zhao Y., Ke S., Yang H., Li Z., Gao J, Chen C., Huang L. Evaluating the Contribution of Gut Microbiota to the Variation of Porcine Fatness with the Cecum and Fecal Samples. Frontiers in Microbiology (2016), doi: 10.3389/fmicb.2016.02108. PMID: 28066405.
 
 # Scientific papers (submitted)
+
 1. Zhang Y, Ke S., Wang X, Liu Y.Y. Association rule mining of the human gut microbiome. 2022, doi: 10.1101/2022.11.27.518104. Bioinformatics Advances, under revision.
 
 # Awards
+
 Women’s Health Interdisciplinary Stress Program of Research (WHISPR) award, 06/2023~05/2025.
 
 # Talk
+
 1. Ke S. Harnessing the microbiota for therapeutic purposes, Ohio State University, 09/2024
 2. Ke S. Towards the rational design of microbiome-based therapeutics, Ohio State University, 04/2024
 3. Ke S. Decipher the role of human microbiome in Posttraumatic stress disorders, UCLA, 03/2024.
